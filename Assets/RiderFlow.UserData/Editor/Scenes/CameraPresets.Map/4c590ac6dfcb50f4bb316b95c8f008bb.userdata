@@ -1,0 +1,28 @@
+{
+  "2e2903995ee17a241a3a7ea9acb7bd15": {
+    "sceneGuid": "4c590ac6dfcb50f4bb316b95c8f008bb",
+    "uniqueCameraId": "2e2903995ee17a241a3a7ea9acb7bd15",
+    "name": "RightSide",
+    "pointX": 3.28860974,
+    "pointY": 0.0115196705,
+    "pointZ": -1.86496186,
+    "directionX": 0.0988508537,
+    "directionY": 0.893961,
+    "directionZ": -0.24338235,
+    "directionW": 0.363086462,
+    "zoom": 3.56602526
+  },
+  "1475032d2ee26824d8750969b749816e": {
+    "sceneGuid": "4c590ac6dfcb50f4bb316b95c8f008bb",
+    "uniqueCameraId": "1475032d2ee26824d8750969b749816e",
+    "name": "LeftSide",
+    "pointX": 5.847791,
+    "pointY": 1.31189263,
+    "pointZ": -0.387886852,
+    "directionX": -0.06315877,
+    "directionY": 0.9351687,
+    "directionZ": -0.215818375,
+    "directionW": -0.2736762,
+    "zoom": 3.56602526
+  }
+}
